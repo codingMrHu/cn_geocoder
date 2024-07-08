@@ -1,0 +1,2 @@
+geopandas==0.14.4
+shapely==2.0.1
